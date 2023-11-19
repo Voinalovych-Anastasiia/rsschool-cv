@@ -16,7 +16,7 @@ Aspiring Junior Developer eager to kick-start a career in the tech industry. Alt
 
 ## Skills
 
-- **Programming Languages:** HTML, CSS
+- **Programming Languages:** HTML, CSS, JavaScript
 - **Tools:** Visual Studio Code, GitHub
 - **Methodologies:** Basic understanding of programming concepts and problem-solving skills.
 
