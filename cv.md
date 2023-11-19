@@ -42,6 +42,12 @@ Aspiring Junior Developer eager to kick-start a career in the tech industry. Alt
 
 ---
 
+## Learning Interests
+
+- **Exploring JavaScript:** Currently diving deeper into JavaScript fundamentals and exploring its various frameworks and libraries.
+- **Focused on Web Development:** Passionate about mastering front-end web development techniques and exploring modern design trends.
+- **Continuous Learning:** Actively seeking new opportunities to enhance coding skills through online tutorials, forums, and engaging with developer communities.
+
 ## English
 
 - Regularly practicing English through reading technical articles, watching coding tutorials, and participating in online forums and communities.
