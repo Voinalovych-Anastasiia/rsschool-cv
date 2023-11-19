@@ -47,3 +47,5 @@ Aspiring Junior Developer eager to kick-start a career in the tech industry. Alt
 - Regularly practicing English through reading technical articles, watching coding tutorials, and participating in online forums and communities.
 
 ---
+
+I am excited about the prospect of entering the tech industry and eager to contribute positively to a dynamic team. I am actively seeking opportunities to learn, grow, and apply my passion for coding to real-world projects.
